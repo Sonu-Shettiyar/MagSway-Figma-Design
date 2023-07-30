@@ -1,0 +1,10 @@
+#LeftBox {
+ 
+  background: linear-gradient(0deg, rgba(21, 101, 216, 0.90) 0%, rgba(21, 101, 216, 0.90) 100%), url(https://s3-alpha-sig.figma.com/img/289f/6ad2/555a3eed00261ea01098aea9161a886f?Expires=1691366400&Signature=OC4MK3XLLlOPe-vxGgCrs3z0DxBjr2R0mPp4SdFuOQwprjMNdCV5zNYwUmTclSD0UwNIQUmbgYompzKIqUKfeL7szsAwtYvc-27NJ-TSPwnw2HPETbjgK-ilfUxUgbfQguXaffPL95BCQkUGRIr4aIXaDL25aC6wcFzicq3WDnRmhIUBPVYs7YBdgpWtwGk5p7IyEGHRUmvjAz7X7ZBgazpt0hkX3d~SdepYxEmA0E005QrYlOfnDwLUtZ8Dca8oPf-Pc8gw2kDIksTNxAlODiNyhDseSORmaC8aLFecGufD~xktB2ihnuvPdnu0UNBaMXX~oNErQA9CUg2MA1HFCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4), lightgray 50% / cover no-repeat;
+  
+  
+}
+
+.msg {
+  font-family: 'Inter';
+}
